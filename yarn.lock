@@ -4735,6 +4735,13 @@ exit@^0.1.2:
   resolved "https://registry.yarnpkg.com/exit/-/exit-0.1.2.tgz#0632638f8d877cc82107d30a0fff1a17cba1cd0c"
   integrity sha1-BjJjj42HfMghB9MKD/8aF8uhzQw=
 
+exome@^0.8.6:
+  version "0.8.6"
+  resolved "https://registry.yarnpkg.com/exome/-/exome-0.8.6.tgz#c99422a26d58009a0880275bc473cdc99d61fc5f"
+  integrity sha512-LSw5rWOIweP5TY77ReO+C63YAQIouoKVk/qQkWXTjvokpMBbxmhKsh98f9t5k0t7PCiLleAerPAbbeilCtSb4w==
+  dependencies:
+    preact "^10.5.13"
+
 expand-brackets@^2.1.4:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/expand-brackets/-/expand-brackets-2.1.4.tgz#b77735e315ce30f6b6eff0f83b04151a22449622"
@@ -8693,6 +8700,11 @@ postcss@^8.1.0:
     colorette "^1.2.1"
     nanoid "^3.1.20"
     source-map "^0.6.1"
+
+preact@^10.5.13:
+  version "10.5.13"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.13.tgz#85f6c9197ecd736ce8e3bec044d08fd1330fa019"
+  integrity sha512-q/vlKIGNwzTLu+jCcvywgGrt+H/1P/oIRSD6mV4ln3hmlC+Aa34C7yfPI4+5bzW8pONyVXYS7SvXosy2dKKtWQ==
 
 prelude-ls@^1.2.1:
   version "1.2.1"
